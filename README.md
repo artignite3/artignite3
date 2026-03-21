@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently learning AI/ML and Web & App Development<br>I'm Currently Building DREAM AI Team Predictor<br>
+Undergrad at IIT Patna, India <br> I'm Currently learning AI/ML and Web & App Development<br>I'm Currently Building DREAM AI Team Predictor<br>
 
 
 ## 🌐 Socials:
